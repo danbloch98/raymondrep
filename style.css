@@ -22,7 +22,7 @@ text-align: center;
     position: relative;
     text-align: center;
     margin: 0 auto;
-   padding-left: 35px;
+   padding-left: 50px;
     top: 5px;
 right: 0.05px;
     width: 300px;
@@ -35,9 +35,10 @@ right: 0.05px;
   }
   #missionStatement h2{
     position: relative;
+    
     top: 150px;
-    font-size: 15px;
-    max-width: 1250px;
+    font-size: 12px;
+    max-width: 320px;
     margin: 0 auto;
   }
   .contactBox{

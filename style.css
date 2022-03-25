@@ -39,6 +39,7 @@ right: 0.05px;
     font-size: 12px;
     max-width: 320px;
     margin: 0 auto;
+    padding-bottom: 10px; 
   }
   .contactBox{
     position: fixed;

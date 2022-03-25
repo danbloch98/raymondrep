@@ -35,7 +35,6 @@ right: 0.05px;
   }
   #missionStatement h2{
     position: relative;
-    
     top: 150px;
     font-size: 12px;
     max-width: 320px;
@@ -102,7 +101,7 @@ right: 0.05px;
   position: relative;
   bottom: 200px;
   font-size: 15px;
-  max-width: 1250px;
+  max-width: 2050px;
   margin: 0 auto;
 }
 

@@ -62,7 +62,7 @@ right: 0.05px;
   bottom: 140px;
     width: 55px;
     gap: 25px;
-    grid-template-columns: repeat(6, 1fr);
+    grid-template-columns: repeat(7, 1fr);
   
   
   }
@@ -162,11 +162,11 @@ right: 0.05px;
   display: grid;
   position: relative;
 margin: 0 auto;
-right: 150px;
+right: 175px;
 bottom: 340px;
   width: 55px;
   gap: 25px;
-  grid-template-columns: repeat(6, 1fr);
+  grid-template-columns: repeat(7, 1fr);
 
 
 }
